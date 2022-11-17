@@ -1,5 +1,5 @@
 # FA22_IXD256
 
 ```
-project documentation 
+Project Documentation by Oskar Qian for IxD256
 ```
