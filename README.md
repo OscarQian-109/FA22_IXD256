@@ -2,5 +2,5 @@
 
 ```
 Assignment Documentation 
-by Oskar Qian 
+by Oskar Q 
 ```
